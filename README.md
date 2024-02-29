@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @crispychickens，a XJTUer
+- 👀这个名字是因为取名的时候在吃脆皮鸡……
+- 🌱 正在学计算导论 程序设计基础
